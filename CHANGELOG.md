@@ -2,6 +2,13 @@
 
 Public record of changes to graph-app, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-10 (release v0.5.0)
+
+- 2026-11-10: Site copy only: a dated correction now sits under the demo video for the narration line at 0:29. No code or score change.
+- 2026-11-10: Land PR #24 merged into main as f2a7cd9 (10 lane PRs included); no feature label changed this round. Tagged v0.5.0 at f2a7cd9.
+
+Score 64 / 100 on our own rubric, scored 2026-11-10. Product page: https://shipitworks.com/apps/#graph-app
+
 ## 2026-11-08 (release v0.4.1)
 
 - 2026-11-08: Rescored under the per-feature rule against main daaacbf (tag v0.4.1): six features share the 25 feature points equally. The MCP endpoint is Proven locally (official SDK client, exit 0; not run from an AI assistant); engine, API, benchmarks and auth are tested with sample data; the web app is not tested yet (lint and build only). 64/100 on our own rubric, down from 67.
