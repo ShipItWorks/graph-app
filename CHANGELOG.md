@@ -2,6 +2,12 @@
 
 Public record of changes to graph-app, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-18 (release v0.5.0)
+
+- 2026-11-18: A review at commit d4f8864 ran the test suite with Postgres (389 passed, 0 failed, 0 skipped) and ran the find-references tool on a real repository, so that target was removed from Where it's going. The sign-in line now says a real GitHub sign-in has not been run. No feature label or score changed.
+
+Score 64 / 100 on our own rubric, scored 2026-11-12. Product page: https://shipitworks.com/onegin/
+
 ## 2026-11-10 (release v0.5.0)
 
 - 2026-11-10: Site copy only: a dated correction now sits under the demo video for the narration line at 0:29. No code or score change.
